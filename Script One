@@ -21,7 +21,7 @@
     "firstNight": 0,
     "firstNightReminder": "",
     "otherNight": 4,
-    "otherNightReminder": "Macbeth chooses someone to kill. He can choose nobody, and instead kill three players the next night."
+    "otherNightReminder": "Macbeth chooses someone to kill. He can choose nobody, and instead kill three players the next night.",
     "reminders": ["Minion",
         "Goodevil"],
     "setup": false,
