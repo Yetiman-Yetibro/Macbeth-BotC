@@ -53,7 +53,7 @@
     "ability": "When you die, the demon dies."
   },
   {
-    "id": "witch",
+    "id": "witches",
     "name": "Witch",
     "edition": "custom",
     "team": "minion",
@@ -113,7 +113,7 @@
     "firstNightReminder": "Donalbain chooses a player.",
     "otherNight": 0,
     "otherNightReminder": "",
-    "reminders": ["Townsfolk"],
+    "reminders": ["Outsider"],
     "setup": false,
     "ability": "At the beginning of the game, choose a player. When they die, so do you."
   },
