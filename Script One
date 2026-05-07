@@ -25,7 +25,7 @@
     "reminders": ["Minion",
         "Goodevil"],
     "setup": false,
-    "ability": "You start good, but any night, the demon may choose to turn you evil instead of activating their ability. When evil, you may choose not to kill anyone, but kill three people the next night.",
+    "ability": "You start good, but any night, the demon may choose to turn you evil instead of activating their ability. When evil, you may choose not to kill anyone, but kill three people the next night."
   },
   {
     "id": "ladymacbeth",
@@ -38,7 +38,7 @@
     "otherNightReminder": "Lady Macbeth points one player. They die. She may choose not to, and instead turn Macbeth evil.",
     "reminders": ["Evil"],
     "setup": false,
-    "ability": "Each night, choose a player. They die.",
+    "ability": "Each night, choose a player. They die."
   },
   {
     "id": "macduff",
@@ -51,7 +51,7 @@
     "otherNightReminder": "",
     "reminders": ["Good"],
     "setup": false,
-    "ability": "Once per game, publicly claim you are Macduff and point to a player. If that player is Macbeth, good wins. Otherwise, you die.",
+    "ability": "Once per game, publicly claim you are Macduff and point to a player. If that player is Macbeth, good wins. Otherwise, you die."
   },
   {
     "id": "ladymacduff",
@@ -64,7 +64,7 @@
     "otherNightReminder": "",
     "reminders": ["Townsfolk"],
     "setup": false,
-    "ability": "When you die, the demon dies.",
+    "ability": "When you die, the demon dies."
   },
   {
     "id": "witch",
@@ -77,7 +77,7 @@
     "otherNightReminder": "The witch points to a player. They are poisoned until tomorrow night.",
     "reminders": ["Minion"],
     "setup": false,
-    "ability": "Each night, choose a player. They are poisoned until tomorrow night.",
+    "ability": "Each night, choose a player. They are poisoned until tomorrow night."
   },
   {
     "id": "hecate",
@@ -90,7 +90,7 @@
     "otherNightReminder": "Hecate points to a player. Give two characters that player might be.",
     "reminders": ["Townsfolk"],
     "setup": false,
-    "ability": "Each night, choose a player. You are told they are one of two characters.",
+    "ability": "Each night, choose a player. You are told they are one of two characters."
   },
   {
     "id": "malcolm",
@@ -103,7 +103,7 @@
     "otherNightReminder": "Malcolm chooses two players. Hold up fingers showing who many of them are evil.",
     "reminders": ["Townsfolk"],
     "setup": false,
-    "ability": "Each night, choose two players. You are told how many are good.",
+    "ability": "Each night, choose two players. You are told how many are good."
   },
   {
     "id": "kingduncan",
@@ -116,7 +116,7 @@
     "otherNightReminder": "",
     "reminders": ["Townsfolk"],
     "setup": false,
-    "ability": "If you are nominated then executed, the player who nominated you dies.",
+    "ability": "If you are nominated then executed, the player who nominated you dies."
   },
   {
     "id": "donalbain",
@@ -129,7 +129,7 @@
     "otherNightReminder": "",
     "reminders": ["Townsfolk"],
     "setup": false,
-    "ability": "At the beginning of the game, choose a player. When they die, so do you.",
+    "ability": "At the beginning of the game, choose a player. When they die, so do you."
   },
   {
     "id": "fleance",
@@ -142,7 +142,7 @@
     "otherNightReminder": "",
     "reminders": ["Townsfolk"],
     "setup": false,
-    "ability": "You know who Banquo is. If he dies before you, you learn who Macbeth is.",
+    "ability": "You know who Banquo is. If he dies before you, you learn who Macbeth is."
   },
   {
     "id": "banquo",
@@ -155,7 +155,7 @@
     "otherNightReminder": "",
     "reminders": ["Townsfolk"],
     "setup": false,
-    "ability": "You know who Fleance is. When you die, you have three ghost votes, which you may distribute how you like. (You may use zero, one, two, or three votes in one nomination.)",
+    "ability": "You know who Fleance is. When you die, you have three ghost votes, which you may distribute how you like. (You may use zero, one, two, or three votes in one nomination.)"
   },
   {
     "id": "siward",
@@ -168,7 +168,7 @@
     "otherNightReminder": "Siward points to a player. They are healthy and alive that night if good. If evil, reveal Siward to them.",
     "reminders": ["Townsfolk"],
     "setup": false,
-    "ability": "Each night, choose a player. If good, they are kept healthy and alive, but if evil, they learn who Siward is. Siward does not know he has been revealed.",
+    "ability": "Each night, choose a player. If good, they are kept healthy and alive, but if evil, they learn who Siward is. Siward does not know he has been revealed."
   },
   {
     "id": "lord",
@@ -181,7 +181,7 @@
     "otherNightReminder": "",
     "reminders": ["Townsfolk"],
     "setup": false,
-    "ability": "Your vote counts twice.",
+    "ability": "Your vote counts twice."
   },
   {
     "id": "gentlewoman",
@@ -194,7 +194,7 @@
     "otherNightReminder": "",
     "reminders": ["Townsfolk"],
     "setup": false,
-    "ability": "The first time you die, you do not die.",
+    "ability": "The first time you die, you do not die."
   },
   {
     "id": "murderer",
@@ -207,6 +207,6 @@
     "otherNightReminder": "The murderer chooses a player. If it is Banquo, Fleance, or Lady Macduff, they die and the murderer stops choosing players.",
     "reminders": ["Townsfolk"],
     "setup": false,
-    "ability": "Each night, choose a player. If it is Banquo, Fleance, or Lady Macduff, they die and the you stop choosing players.",
+    "ability": "Each night, choose a player. If it is Banquo, Fleance, or Lady Macduff, they die and the you stop choosing players."
   }
 ]
