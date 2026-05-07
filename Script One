@@ -22,7 +22,8 @@
     "firstNightReminder": "",
     "otherNight": 4,
     "otherNightReminder": "Macbeth chooses someone to kill. He can choose nobody, and instead kill three players the next night."
-    "reminders": ["Minion", "Goodevil"],
+    "reminders": ["Minion",
+        "Goodevil"],
     "setup": false,
     "ability": "You start good, but any night, the demon may choose to turn you evil instead of activating their ability. When evil, you may choose not to kill anyone, but kill three people the next night.",
   },
