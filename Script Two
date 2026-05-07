@@ -105,19 +105,6 @@
     "ability": "If you are nominated then executed, the player who nominated you dies."
   },
   {
-    "id": "donalbain",
-    "name": "Donalbain",
-    "edition": "custom",
-    "team": "outsider",
-    "firstNight": 0,
-    "firstNightReminder": "",
-    "otherNight": 0,
-    "otherNightReminder": "",
-    "reminders": ["Outsider"],
-    "setup": false,
-    "ability": "When King Duncan dies, so do you."
-  },
-  {
     "id": "fleance",
     "name": "Fleance",
     "edition": "custom",
