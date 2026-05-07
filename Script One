@@ -194,5 +194,18 @@
     "reminders": ["Townsfolk"],
     "setup": false,
     "ability": "Each night, choose a player. If it is Banquo, Fleance, or Lady Macduff, they die and the you stop choosing players."
+  },
+  {
+    "id": "apparition",
+    "name": "Apparition",
+    "edition": "custom",
+    "team": "townsfolk",
+    "firstNight": 4,
+    "firstNightReminder": "You see the grimoire.",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": ["Townsfolk"],
+    "setup": false,
+    "ability": "The first night you see the grimoire. You register as evil to all players, evil and good."
   }
 ]
